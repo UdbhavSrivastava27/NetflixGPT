@@ -93,7 +93,7 @@ const Login = () => {
   return (
     <div>
       <div className="absolute bg-gradient-to-b from-red-800">
-        <img className=" h-screen  w-full object-cover blur-sm" src="https://petapixel.com/assets/uploads/2023/03/Netflix-Sued-for-a-Privacy-Invading-Drone-Shot-it-Used-in-an-Ad-800x420.jpg" alt="logo" />
+        <img className=" h-screen  w-screen object-cover blur-sm" src="https://petapixel.com/assets/uploads/2023/03/Netflix-Sued-for-a-Privacy-Invading-Drone-Shot-it-Used-in-an-Ad-800x420.jpg" alt="logo" />
       </div>
       <form
         onSubmit={(e) => e.preventDefault()}
